@@ -73,7 +73,7 @@ _"The best way to predict the future is to create it." – Peter Drucker_ ✨
 ---
 
 ## 🎵 **What I'm Listening to on Spotify:**
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/anish1A1)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31aoabc25zxcxyrhryoufodn5dg4)
 
 ---
 
