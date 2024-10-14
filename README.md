@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://readme-headers.vercel.app/api?title=Hello!%20I'm%20Anish%20Jaiswal&bgColor=030e21&fontColor=ffffff&height=300" alt="Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Hello!%20I'm%20Anish%20Jaiswal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner"/>
 </div>
 
 # 👋 **Hi there! I'm Anish Jaiswal** 
 #### *A Passionate Full-Stack Developer | BIT Student | Blockchain Enthusiast 🌐*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anish1A1&color=blue)  
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7DF1E&vCenter=true&width=1000&lines=Blockchain+Learner+%7C+Full-Stack+Developer;Building+FarmSajilo+Platform+in+React+Django!;Creating+the+Future+with+Code🚀)
 
 ---
@@ -43,12 +42,15 @@ _"The best way to predict the future is to create it." – Peter Drucker_ ✨
 ## 💻 **Tech Stack & Tools:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) 
+![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
@@ -72,15 +74,6 @@ _"The best way to predict the future is to create it." – Peter Drucker_ ✨
 
 ## 🎵 **What I'm Listening to on Spotify:**
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/anish1A1)
-
----
-
-## 🔥 **GitHub Skyline 3D**
-<div align="center">
-  <a href="https://skyline.github.com/anish1A1/2024">
-    <img src="https://github.com/anish1A1/skyline.png" alt="GitHub Skyline" width="500"/>
-  </a>
-</div>
 
 ---
 
