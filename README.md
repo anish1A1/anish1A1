@@ -86,13 +86,10 @@ _"The best way to predict the future is to create it." – Peter Drucker_ ✨
 
 ## 🧑‍💻 **Fun Facts About Me:**
 - 🌟 I enjoy experimenting with **blockchain, AI, and IoT** technologies.
-- 🎮 I’m also a huge **gaming enthusiast** – catch me playing Valorant or FIFA!
+- 🎮 I’m also a huge **gaming enthusiast** – catch me playing GTA or FIFA!
 - 🍕 Can’t code without some **good pizza & coffee** by my side.
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anish1A1&label=Profile%20Views&color=6&icon=6&pretty=true" alt="Profile Views" />
-</div>
 
 <!-- Created with ❤️ by Anish Jaiswal -->
