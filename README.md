@@ -42,7 +42,7 @@ _"The best way to predict the future is to create it." – Peter Drucker_ ✨
 ## 💻 **Tech Stack & Tools:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)  
+  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)   
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
