@@ -20,7 +20,7 @@
 ---
 
 ## 🎯 **Current Goals**
-- ✅ Build a **Blockchain-based App** by the end of this year ⛓️  
+
 - ✅ Master **NextJS** and **Django**  
 - 🎓 Graduate & start working as a **Blockchain Developer** in 2025 🚀  
 
