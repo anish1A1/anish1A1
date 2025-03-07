@@ -12,7 +12,8 @@
 
 ## 💫 **About Me**
 - 🎓 **Final Year BIT Student** at Itahari International College  
-- 💻 **Full-Stack Developer** | Learning Blockchain & Smart Contracts ⛓️  
+- 💻 **Full-Stack Developer** |
+- learning AI and ML ⛓️  
 - 🌾 Currently working on **FarmSajilo**, a farmer resource-sharing platform in Nepal  
 - 🌱 Learning **Data Structures & Algorithms in Python**  
 - 💡 Exploring **Blockchain Apps** for future innovation  
