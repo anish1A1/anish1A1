@@ -23,7 +23,7 @@
 ## 🎯 **Current Goals**
 
 - ✅ Master **NextJS** and **Django**  
-- 🎓 Graduate & start working as a **Blockchain Developer** in 2025 🚀  
+- 🎓 Graduate & start working as a **AI/ML Developer** in 2025 🚀  
 
 ---
 
