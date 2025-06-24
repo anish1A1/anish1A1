@@ -1,61 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Hi!%20I'm%20Anish%20Jaiswal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=280&section=header&text=Hi!%20I'm%20Anish%20Jaiswal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner"/>
 </div>
 
-<h2 align="center">🚀 Full-Stack Developer | Final Year BIT Student | Tech Explorer</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anish1A1&color=blue" alt="profile views"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0AFFEF&vCenter=true&width=1000&lines=Building+FarmSajilo+using+React+%2B+Django;Integrating+AI+%26+Blockchain+for+Nepal;Let's+Code+the+Future+Together!+💻" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7DF1E&center=true&width=1000&lines=Full-Stack+Developer+%7C+Next.js+%2B+Django+Expert;Currently+Building+MailMentor+%F0%9F%93%AC;OpenAI+%2F+Stripe+%2F+System+Design+Learner+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year BIT Student @ Itahari International College  
-- 🛠 Full-Stack Developer (React, Next.js, Django, DRF)  
-- 🌱 Learning Data Structures & Algorithms in Python  
-- 🤖 Exploring AI tools & OpenAI integrations  
-- 🌾 Building **FarmSajilo** – a farmer resource-sharing platform  
-- ⛓️ Passionate about Blockchain-based Applications  
-- 💬 Ask me about **Web Dev, Backend Systems, Integration APIs**
+- 🎓 **Final Year BIT Student** – Graduating in 2025  
+- 🛠️ **Full-Stack Web Developer** – Specialized in modern frameworks  
+- 💌 **Currently building MailMentor** – an AI-powered email solution  
+- 📈 Learning **Data Structures & Algorithms** and **System Design**  
+- 🧠 Interested in **AI, Software Architecture, and Scalable Systems**  
+- 🔁 Completed **FarmSajilo** – a resource-sharing platform for Nepali farmers  
+- 🌍 I love building tools that create real-world impact
 
 ---
 
-## 🚧 Current Goals
+## 🚀 Tech Stack & Tools
 
-- 🔥 Master TypeScript & Next.js App Directory (2024+)
-- 🌐 Expand my AI & ML development skills
-- 🚀 Become a leading tech contributor from Nepal 🇳🇵
-- 🧠 Build impactful open-source projects
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend:
+### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-121212?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Shadcn](https://img.shields.io/badge/ShadCN-121212?style=flat&logo=react&logoColor=white)
 
-### 🧠 Backend:
+### ⚙️ Backend & APIs
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Stream](https://img.shields.io/badge/StreamAPI-0080FF?style=flat&logo=streamlit&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-black?style=flat&logo=nextdotjs&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=flat&logo=clerk&logoColor=white)
+
+### 💳 Payment APIs
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Khalti](https://img.shields.io/badge/Khalti-5D2E8C?style=flat&logo=vercel&logoColor=white)
+
+### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🔌 APIs & Tools:
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Stream](https://img.shields.io/badge/StreamAPI-0080FF?style=flat&logo=streamlit&logoColor=white)
+### 🧪 Tools & Others
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anish1A1&theme=radical&show_icons=true&hide_border=false&count_private=true" />
@@ -70,22 +72,26 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anish1A1&theme=onedark&margin-w=10&row=1&no-frame=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anish1A1&theme=matrix&no-frame=false&no-bg=true&margin-w=8" />
 </div>
 
 ---
 
 ## 📣 Featured Projects
 
-- 🌾 **FarmSajilo** – Farmer support platform using AI + Trade + Rental system  
-- 🤖 **AI Trade Insight Tool** – Gemini API-based market insights  
-- 📦 **Equipment Rental Dashboard** – Full-featured user system  
-- 🔐 **Secure Auth Dashboard** – JWT & Session-based auth in DRF  
-- 🛒 **E-commerce Cart System** – Integrated VAT/Tax Logic
+- 💌 **MailMentor** – AI-powered email writer with OpenAI & Gemini  
+- 🌾 **FarmSajilo** – Agricultural resource & trade platform (Complete ✅)  
+- 💳 **Stripe + Khalti Payment** – Real-world payment integration  
+- 📚 **Learning Platform** – Internal tools built with Supabase & Clerk
 
 ---
 
-## 🔗 Connect With Me
+## ✨ Quote I live by:
+> "_The best way to predict the future is to create it._" — Peter Drucker
+
+---
+
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-jaiswal-se)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_anish_jaiswal)  
@@ -94,25 +100,19 @@
 
 ---
 
-## 🎧 Spotify Vibes
+## 🎧 Currently Listening
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31aoabc25zxcxyrhryoufodn5dg4)
 
 ---
 
-## ✨ Fun Facts
+## 🎮 Fun Facts
 
-- 🎮 Gamer in free time – GTA & FIFA
-- 🍕 Pizza + ☕ = Coding Fuel
-- 🌱 Always building, always improving
-
----
-
-> _"The best way to predict the future is to create it." – Peter Drucker_
+- 🎮 Love GTA & FIFA in free time  
+- 🍕 Pizza + ☕ = Coding booster  
+- 🧠 Always curious about scalable system designs  
+- 📚 Believe in **learning by building**
 
 ---
 
-<p align="center">
-  Made with ❤️ by <strong>Anish Jaiswal</strong>
-</p>
-
+<p align="center">Crafted with ❤️ by <strong>Anish Jaiswal</strong></p>
